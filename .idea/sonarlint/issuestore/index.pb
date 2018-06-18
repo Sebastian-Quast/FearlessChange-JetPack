@@ -25,3 +25,5 @@ Xapp/src/main/java/de/thkoeln/fearlesschange/fearlesschangeapp/repository/daos/C
 ]app/src/main/java/de/thkoeln/fearlesschange/fearlesschangeapp/ui/overview/OverviewFragment.kt,2\b\2b72bc87d17751d3e7ef1266e28bb4cd1a10bba2
 Å
 Qapp/src/main/java/de/thkoeln/fearlesschange/fearlesschangeapp/OverviewActivity.kt,7\e\7e380c627b2ba659e533ca0677d9dae67753e278
+Z
+*app/src/main/res/layout/card_grid_item.xml,5\5\55e02ca3fcb853840ce339dc835b77b8f6014e2d
